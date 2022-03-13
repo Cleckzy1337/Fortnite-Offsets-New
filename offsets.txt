@@ -1,5 +1,5 @@
  Fortnite Offsets (Cleckzy#1337)
-
+   OFFSET_UWORLD 0xB973AA8
    uintptr_t GameInstance = 0x190
     uintptr_t LocalPlayers = 0x38
     uintptr_t PlayerController = 0x30
