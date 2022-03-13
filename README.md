@@ -19,4 +19,3 @@
     uintptr_t BoneArray = 0x4C0
     uintptr_t bIsDying = 0x548
     uintptr_t bIsDBNO = 0x572
-
